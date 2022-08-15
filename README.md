@@ -1,5 +1,5 @@
 # Task-Tracker
-### We have been build a task tracker app with [Brad Traversy](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+### We have been build a simple task tracker app with [Brad Traversy](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 - we can add task with name, date & time and reminder when we click on **Add** button in application
 - we can remove any task we want
