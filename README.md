@@ -3,4 +3,4 @@
 
 - we can add task with name, date & time and reminder when we click on **Add** button in application
 - we can remove any task we want
-- we can add or remove reminder with duble click on any task we want (reminder is a green border on left side of task)
+- we can add or remove reminder with duble click on any task we want (reminder is a green border on the left side of the task)
